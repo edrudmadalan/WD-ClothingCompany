@@ -121,4 +121,4 @@ WD-ProjectName
 | Tailwind CSS Shopping Cart - Flowbite | Reference for the shopping cart for collections. | https://flowbite.com/blocks/e-commerce/shopping-cart/ |
 | Tailwind CSS Navbar - Flowbite | Reference for default navbar. | https://flowbite.com/docs/components/navbar/ |
 | Tailwind CSS Jumbotron - Flowbite | Reference for the homepage hero | https://flowbite.com/docs/components/jumbotron/ |
-| Tailwind CSS Shopping Cart - Flowbite | Reference for the shopping cart for collections. | https://flowbite.com/blocks/e-commerce/shopping-cart/ |
+| Product page | Reference for Product pages | https://tailwindflex.com/@jaxstone/product-page-2 |
