@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charlotte Folk Official</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css" rel="stylesheet" />
+    
+</head>
+<body>
+    
+</head>
+<nav class="bg-white border-gray-200 dark:bg-gray-900">
+    <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <a href="../../index.html" class="flex items-center space-x-3 rtl:space-x-reverse">
+          <img src="./assets/charlotte.png" class="h-10" alt="Flowbite Logo" />
+          <span class="self-center text-2xl font-extrabold whitespace-nowrap dark:text-white"></span>
+      </a>
+      <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-blue-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
+          <span class="sr-only">Open main menu</span>
+          <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
+          </svg>
+      </button>
+      <div class="hidden w-full md:block md:w-auto" id="navbar-default">
+        <ul class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+          <li>
+            <a href="../../index.html" class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500" aria-current="page">Home</a>
+          </li>
+          <li>
+            <a href="../about/index.html" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About</a>
+          </li>
+          <li>
+            <a href="../collections/index.html" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Collections</a>
+          </li>
+          <li>
+            <a href="../support/index.html" class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Support</a>
+          </li>
+         
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+  <title>Background Video with Contact Us</title>
+  <style>
+    /* Reset body styles */
+    body, html {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    /* Video container */
+    .video-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      overflow: hidden;
+    }
+
+    .video-container video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    /* Content overlay */
+    .content {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      height: 100%;
+      text-align: center;
+      color: white;
+      background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+      padding: 2rem;
+    }
+
+    .content h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+
+    .content p {
+      font-size: 1.5rem;
+      margin-top: 1rem;
+    }
+
+    .content button {
+      margin-top: 2rem;
+      padding: 1rem 2rem;
+      font-size: 1rem;
+      color: white;
+      background-color: #007BFF;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .content button:hover {
+      background-color: #0056b3;
+    }
+
+    /* Contact Us Section */
+    .contact {
+      display: flex;
+      margin-top: 3rem;
+      gap: 1.5rem;
+    }
+
+    .contact a {
+      color: white;
+      font-size: 1.5rem;
+      transition: color 0.3s ease;
+      text-decoration: none;
+    }
+
+    .contact a:hover {
+      color: #007BFF;
+    }
+  </style>
+</head>
+<body>
+  <div class="video-container">
+    <video autoplay muted loop>
+      <source src="./assets/Charlotte Folk_ Football Collection Volume 001.mp4" type="video/mp4">
+    
+    </video>
+  </div>
+
+  <div class="content">
+
+    <h1 class="text-4xl sm:text-6xl font-extrabold">Join our Family, Be a Folk!</h1>
+
+    <p class="mt-4 text-lg sm:text-2xl font-medium">Experience the beauty of motion in design</p>
+</div>
+    <div class="contact">
+      <a href="https://www.facebook.com/charlottefolkk" target="_blank">Facebook</a>
+      <a href="https://www.instagram.com/charlotte__folk?igsh=MWNjOHV6YzltYTFrbQ==" target="_blank">Instagram</a>
+      <a href="https://tiktok.com" target="_blank">TikTok</a>
+    </div>
+  </div>
+</body>
+</html>
+  
+  <script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
+</body>
+</html>
