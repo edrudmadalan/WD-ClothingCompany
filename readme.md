@@ -5,22 +5,20 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Clothing Company (Charlotte Folk)</h3>
 </div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
-</div>
+
 
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/7fb41645-0b63-4f59-a4ca-4c3d7f66f67b/project/94984d31-6f64-4d4d-9c94-5651db8bda44.svg)](https://wakatime.com/badge/user/7fb41645-0b63-4f59-a4ca-4c3d7f66f67b/project/94984d31-6f64-4d4d-9c94-5651db8bda44)
+
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=edrudmadalan/WD-ClothingCompany)
 
 ---
 
@@ -61,22 +59,25 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+      The project is to design and build a website for a local clothing company that collaborates with local artists to promote and sell locally made streetwear. The website will serve as a platform for showcasing the clothing collections, highlighting the artists' contributions, and facilitating online sales.
+  
 - Whats the purpose
+    -Promote Local Talent: Provide visibility to local artists and their contributions to the clothing designs.
+    -Support Local Economy: Encourage the community to support locally made products.
+    -Showcase Streetwear Culture: Highlight unique designs that reflect the local streetwear style and culture.
+    -E-Commerce: Enable customers to browse and purchase products easily online.
+    -Brand Storytelling: Communicate the brand’s mission and the collaborative process with artists.
+
 - What are key components
 - What technology used and how it is used
 
-### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +118,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Tailwind CSS Shopping Cart - Flowbite | Reference for the shopping cart for collections. | https://flowbite.com/blocks/e-commerce/shopping-cart/ |
+| Tailwind CSS Navbar - Flowbite | Reference for default navbar. | https://flowbite.com/docs/components/navbar/ |
+| Tailwind CSS Jumbotron - Flowbite | Reference for the homepage hero | https://flowbite.com/docs/components/jumbotron/ |
+| Tailwind CSS Shopping Cart - Flowbite | Reference for the shopping cart for collections. | https://flowbite.com/blocks/e-commerce/shopping-cart/ |
