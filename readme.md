@@ -118,4 +118,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Tailwind CSS Shopping Cart - Flowbite | Reference for the shopping cart for collections. | https://flowbite.com/blocks/e-commerce/shopping-cart/ |
+| Tailwind CSS Navbar - Flowbite | Reference for default navbar. | https://flowbite.com/docs/components/navbar/ |
+| Tailwind CSS Jumbotron - Flowbite | Reference for the homepage hero | https://flowbite.com/docs/components/jumbotron/ |
+| Tailwind CSS Shopping Cart - Flowbite | Reference for the shopping cart for collections. | https://flowbite.com/blocks/e-commerce/shopping-cart/ |
