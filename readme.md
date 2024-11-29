@@ -59,7 +59,7 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
-      The project is to design and build a website for a local clothing company that collaborates with local artists to promote and sell locally made streetwear. The website will serve as a platform for showcasing the clothing collections, highlighting the artists' contributions, and facilitating online sales.
+    -The project is a responsive website created entirely using Tailwind CSS to represent the local brand, Charlotte Folk. The website aims to embody the brand's identity through clean design, bold typography, and subtle animations, while maintaining a visually cohesive aesthetic. It will serve as a digital space to showcase the brand’s offerings, share its story, and foster a stronger connection with its audience.
   
 - Whats the purpose
     -Promote Local Talent: Provide visibility to local artists and their contributions to the clothing designs.
@@ -69,7 +69,10 @@ Guiding Question:
     -Brand Storytelling: Communicate the brand’s mission and the collaborative process with artists.
 
 - What are key components
+    -The website includes several key components. A hero section will introduce users to the brand with a visually engaging background carousel or video, accompanied by bold headers and compelling calls to action. The about section will narrate the brand’s story and mission, while a product showcase will highlight offerings in an organized and interactive gallery format. Social media links will be featured prominently in a contact section, enabling seamless engagement with platforms like Facebook, Instagram, and TikTok. A responsive navigation bar ensures smooth usability across devices, and call-to-action buttons strategically placed throughout the site will drive user interaction. The design will leverage Charlotte Folk’s unique typography and color palette to maintain consistency with the brand’s visual identity.
+  
 - What technology used and how it is used
+      -The website is built entirely using Tailwind CSS, a utility-first framework that simplifies styling and responsiveness. Tailwind’s predefined classes will be used to style all components, such as bg-cover for images, text-xl for typography, and hover:bg-blue-500 for interactive elements. Responsive design is achieved through Tailwind’s sm:, md:, and lg: utilities, ensuring the site is optimized for different screen sizes. Tailwind’s theme.extend configuration will allow customization of the color palette and typography to reflect Charlotte Folk’s branding. The structure is defined using HTML, with semantic tags like header and footer for better organization and SEO. Smooth transitions and animations will be implemented using Tailwind’s transition and transform utilities. Additionally, the hero section may feature a video background or carousel to capture user attention. Accessibility enhancements, such as the use of sr-only classes, will ensure inclusivity for all users. Together, these technologies create a functional, aesthetic, and engaging platform for Charlotte Folk.
 
 
 ### Technology
